@@ -12,7 +12,6 @@ By applying our knowledge of such permutations, we can compute that an N x N lat
 
 40! / ((20!)^2) = 137846528820
 
+### Princeton Companion
 
-
-
-
+It is worth noting that this problem is discussed in the Exact Counting [I.6] section of the Princeton Companion to Mathematics
